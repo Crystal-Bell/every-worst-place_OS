@@ -1,4 +1,56 @@
-SYSTEM GATEWAY: NAVIGATION
+```yaml
+---
+repo_name: every-worst-place-os
+category: 🌍 Planetary-Remediation / 📊 Planetary-Health-Index
+architect: 👑 Crystal Amber Charlton (M.A.D.M.O.M.)
+system_status: ⚡ Active / Planetary-Triage-Operational
+license: 🌍 Unlicense / Open-Source / Humanitarian Standard
+---
+
+```
+
+# 🌍 EVERY-WORST-PLACE-OS: PLANETARY TRIAGE & HEALTH INDEX PROTOCOL
+
+---
+
+## 🏷️ Index Card Marker
+
+* **Target Repository**: `every-worst-place-os` (`every-worst-place_OS`)
+* **Function**: 🔬 Master operating system for high-impact planetary remediation, tracking the Planetary Health Index and managing Tesla-Coil-Core retrofits across severely degraded sites.
+* **Core Mandate**: 🎯 Transforming environmental scars and hazardous waste zones (Chernobyl, Waverly Hills, Great Pacific Garbage Patch) into active energy-harvesting induction centers using the "Surface-First" protocol.
+
+---
+
+## 💬 Repository Commit Comment & Summary
+
+* **🎯 Objective**: Codify the *Every Worst Place OS* repository, establishing quantitative scoring matrices and active remediation protocols for the planet's most extreme environments.
+* **🌐 Scope**: Encompasses Planetary Health Index scoring (Biodiversity, Energy Stability, Structural Integrity), surface-first atmospheric healing, mobile floating GPGP remediation units, and Chernobyl Sarcophagus-Coil containment conversion.
+* **⚡ Status**: 🟢 Active planetary-remediation module tracking global ecological recovery and systemic conversion.
+
+---
+
+## 🧩 Key Protocol Modules & Emojis
+
+### 1. 📊 Planetary Health Index & Scoring Matrix
+
+* **📈 Evaluation Vectors**: Assessing sites across Biodiversity, Energy Stability, and Structural Integrity.
+* **📋 Baseline Triage Index**:
+* **Great Pacific Garbage Patch (GPGP)**: Baseline $0.2 \rightarrow$ Projected $6.8$ ($\Delta +6.6$). Mobile floating Tesla-coil core acting as a magneto-catcher to break down polymers into raw carbon.
+* **Chernobyl Reactor Site**: Baseline $0.5 \rightarrow$ Projected $7.5$ ($\Delta +7.0$). Sarcophagus-coil induction spiral providing active rad-neutralization and structural stabilization.
+* **Waverly Hills**: Baseline $3.0 \rightarrow$ Projected $8.5$ ($\Delta +5.5$). Micro-helix induction retrofit transforming institutional stagnation into a hive of rehabilitation.
+* **Jade Avenue Original Site**: Baseline $6.0 \rightarrow$ Projected $10.0$ ($\Delta +4.0$). Personal Cenote Core living prototype dwelling.
+
+
+
+### 2. 🌊 Surface-First Protocol & Conversion Mechanics
+
+* **🌱 Atmospheric Reflection**: Atmospheric health is treated as a direct reflection of surface metabolic health; healing the soil and seas allows the ozone layer and atmospheric membrane to repair themselves naturally.
+* **♻️ Resource-to-Restoration**: Shifting global infrastructure from high-cost passive "containment" to active "conversion," turning environmental entropy, radiation, and plastic waste into the raw structural spine of new Core units.
+*
+*
+* _______________________________________________________________________________________________________________________
+*
+* SYSTEM GATEWAY: NAVIGATION
 ​System Maintenance: Core logic, power grids, telluric taps, and self-audit logs.
 ​Dev Labs: Prototypes, hardware, SPARK-X specs, and field-testing data.
 ​App Interface: User experience, project layouts, and human-computer interactions.
